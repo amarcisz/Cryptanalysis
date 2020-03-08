@@ -1,2 +1,2 @@
 # Cryptanalysis
-Code for encrypting and decryption messages as well as for breaking ciphers
+Code for encryption and decryption messages as well as for breaking ciphers
